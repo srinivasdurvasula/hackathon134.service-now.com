@@ -1,5 +1,6 @@
 var Demo1 = Class.create();
 gs.print("This is Srini");
+gs.print("Amitav");
 Demo1.prototype = {
     initialize: function() {
     },
