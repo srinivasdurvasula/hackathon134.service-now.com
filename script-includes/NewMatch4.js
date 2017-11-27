@@ -1,4 +1,5 @@
 var NewMatch4 = Class.create();
+gs.print("testing merge functionality");
 NewMatch4.prototype = {
     initialize: function() {
     },
