@@ -18,6 +18,7 @@ NewMatch.prototype = {
 
 	testMethod2 : function() {
 		gs.print("UserDetails");
+		gs.print("UserDetails");
 	},
 	
 
