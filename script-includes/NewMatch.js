@@ -1,5 +1,6 @@
 var NewMatch = Class.create();
 gs.print("Let's fight");
+gs.print("Let's fight..Manoj");
 NewMatch.prototype = {
     initialize: function() {
     },
