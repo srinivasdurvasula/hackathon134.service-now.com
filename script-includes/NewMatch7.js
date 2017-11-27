@@ -1,4 +1,5 @@
 var NewMatch7 = Class.create();
+
 NewMatch7.prototype = {
     initialize: function() {
     },
