@@ -24,4 +24,4 @@ NewMatch5.prototype = {
 		}
 	},
     type: 'NewMatch5'
-};
+};
