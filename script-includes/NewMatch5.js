@@ -1,4 +1,5 @@
 var NewMatch5 = Class.create();
+gs.print("Test again");
 NewMatch5.prototype = {
     initialize: function() {
     },
