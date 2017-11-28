@@ -2,6 +2,7 @@ var NewMatch = Class.create();
 gs.print("Let's fight");
 gs.print("Lest test again");
 gs.print("Let's fight..Manoj.....");
+gs.print("Let's fight..Manoj1.....");
 
 gs.print("Let not fight any more.");
 
