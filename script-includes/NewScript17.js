@@ -1,4 +1,5 @@
 var NewScript17 = Class.create();
+gs.print("Hi I am Manoj!");
 NewScript17.prototype = {
     initialize: function() {
     },
