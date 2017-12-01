@@ -5,7 +5,7 @@ NewScript18.prototype = {
     initialize: function() {
     },
 	testMethod : function(){
-	
+		gs.print('venugopal');
 		var gr = new GlideRecord('sys_user');
 		gr.addActiveQuery();
 		gr.query();
